@@ -1,0 +1,12 @@
+.bundle/
+db/*.sqlite3
+log/*.log
+public/*
+tmp/
+.sass-cache/
+.idea/
+vendor/cache
+vendor/bundle
+nginc_repository/*
+pids/*
+~                    
