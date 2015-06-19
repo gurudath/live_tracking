@@ -9,4 +9,5 @@ vendor/cache
 vendor/bundle
 nginc_repository/*
 pids/*
+nginc_repository.tar.gz
 ~                    
